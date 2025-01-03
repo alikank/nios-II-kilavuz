@@ -1,4 +1,4 @@
-#  **Nios II Tanıtımı**
+#  **Nios II - 32 bit Tanıtımı**
 
 Bu depo, **Nios II işlemcisi** hakkında bilgiler içeren bir raporu barındırmaktadır. Rapor, Nios II işlemcisinin mimari yapısını, komut setlerini, bellek erişim yöntemlerini ve derleme süreçlerini açıklamaktadır. İlgili işlemci için Türkçe kaynakların eksikliğini gidermek ve benzer çalışmalar yapanlara rehberlik etmek amacıyla yayınlanmıştır. Ayrıca, bu rapor Mikroişlemciler dersi ödevi kapsamında hazırlanmış olup, temel seviye bilgileri içermektedir.
 
